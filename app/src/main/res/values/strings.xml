@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CalculoSalario</string>
+    <string name="titulo">AppWork 2021</string>
+    <string name="rotulo1">Horas Trabajadas</string>
+    <string name="rotulo2">Pago por hora</string>
+    <string name="rotulo3">Calcular</string>
+    <string name="rotulo4">Nuevo</string>
+    <string name="rotulo5">Salir</string>
+    <string name="rotulo6">Nombre del Trabajador</string>
 </resources>
